@@ -1,7 +1,7 @@
 # OpenMusic API versi 1
 
 Perintah Node yang terinstall<br>
-1. npm init --y 
+1. npm init --y
 2. npm install nodemon --save-dev
 3. npm install eslint --save-dev
 4. npx eslint --init

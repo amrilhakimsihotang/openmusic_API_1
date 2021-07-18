@@ -15,5 +15,13 @@
         "@typescript-eslint"
     ],
     "rules": {
+        "no-console":"off",
+        "linebreak-style":"off",
+        "no-underscore-dangle":"off",
+        "camelcase":"off",
+        "no-trailing-spaces":"off",
+        "indent":"off",
+        "no-multiple-empty-lines":"off",
+        "eol-last":"off"
     }
 }
