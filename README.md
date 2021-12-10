@@ -16,9 +16,10 @@ Perintah Node yang terinstall<br>
 Tools:<br>
 1. Node versi 14.17.0<br>
 2. Postgres pgAdmin 4 versi 5.2<br>
-3. VS Code 1.57.0<br>
+3. VS Code 1.57.0 ![nilai](https://user-images.githubusercontent.com/68908992/145614647-4a366e8d-86c2-4888-9999-7140da7349dc.png)
+
 
 <br>
 Fitur CRUD
 <br>
-Uji di postman dengan OpenMusic API V1 Test. Tidak ada kendala dan mendapat nilai bintang 5.
+Uji di postman dengan OpenMusic API V1 Test. Tidak ada kendala 
